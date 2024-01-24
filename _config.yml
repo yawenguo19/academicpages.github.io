@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yawen Guo"
 title_separator          : "-"
-name                     : "Yawen Guo, PhD"
+name                     : &name "Your Name"
 description              : &description "Researching Solar-based Base Station energy harvesting and allocation."
 url                      : https://yawenguo19.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
