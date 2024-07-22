@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yawen Guo"
 title_separator          : "-"
 name                     : &name "Yawen Guo"
-description              : &description "Electrical and Computer Engineering PhD at UCSC."
+description              : &description "Electrical and computer engineering PhD at UCSC."
 url                      : https://yawenguo19.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yawenguo19/yawenguo19.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yawen Guo"
   avatar           : "profile.png"
-  bio              : "Researching green communication system applying machine-learning techniques. Electrical and Computer Engineering PhD at UCSC."
+  bio              : "Researching green communication system applying machine-learning techniques. Electrical and computer engineering PhD at UCSC."
   location         : "Santa Cruz, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
