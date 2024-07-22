@@ -11,30 +11,42 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Photoelectronic Information Science and Engineering, Hangzhou Dianzi University, 2017
+* M.S. in Photoelectronic Information Technology and Instruments, Hangzhou Dianzi University, 2021
+* Ph.D in Electrical and Comuputer Engineering, University of California, Santa Cruz, 2026 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Project: Greener Greenhouse -- Towards Efficient Visible-Light Communication for Next-Generation IoT
+  * jLab in Smart Sensing, UCSC
+  * Duties included: Simulations of several communication methods like CSS and OOK for visible light communication.
+  * Supervisor: Professor Colleen Josephson
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Project: Energy Outage Estimation with Resource Allocation for Solar Cellular Base Stations
+  * jLab in Smart Sensing, UCSC
+  * Duties included: Energy predicting for solar-powered base station using a machine learning method (LSTM).
+  * Supervisor: Professor Colleen Josephson
+
+* Project: Magnetic Dynamics
+  * Applied Optics Group, UCSC
+  * Duties included: Studied the magnetization precession of CoFe and CoFe/Co2MnSi film (by TR-MOKE setup); Study on magnetic properties of FeV film.
+  * Supervisor: Professor Holger Schmidt
+
+* Project: Quantum Transport Properties of Two-dimensional Materials
+  * Hangzhou Dianzi University
+  * Duties included: Studied the electrical modulation of the transport properties of the silicene constrictions(by Simulation).
+  * Supervisor: Professor Yuan Li
+ 
+* Project: Second-harmonic Generation of Two-dimensional Materials 
+  * High Magnetic Field Laboratory of the Chinese Academy of Science
+  * Duties included: Second-harmonic generation experiment on BaTiO3 and In2Se3.
+  * Supervisor: Professor Zhigao Sheng
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Matlab
+* Python
+* Machine Learning
 
 Publications
 ======
@@ -42,11 +54,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+#Talks
+#======
+#  <ul>{% for post in site.talks %}
+#    {% include archive-single-talk-cv.html %}
+#  {% endfor %}</ul>
   
 Teaching
 ======
@@ -54,6 +66,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
